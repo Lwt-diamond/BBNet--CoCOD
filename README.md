@@ -3,6 +3,7 @@
 > **Authors:** 
 > [Cong Zhang](https://github.com/zc199823/), Hong-Bo Bi, [Tian-Zhu Xiang](https://github.com/visionxiang), [Ran-Wan Wu](https://github.com/RanwanWu/), Jinghui Tong, Xiufang Wang
 
+# 数据集有错误，快跑！！！
 ## 1. CoCOD8K
 
 -We propose the first large-scale and challenging CoCOD dataset, termed CoCOD8K, which contains 8,528 high-resolution camouflaged images paired with corresponding binary mask annotations. This work provides a foundation for the CoCOD field and is expected to give a strong boost to growth in the COD community.
